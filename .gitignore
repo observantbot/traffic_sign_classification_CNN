@@ -128,7 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# ignoring test and train pickel due to large size
-input/train.pickel
-input/test.pickel
-
